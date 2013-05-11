@@ -1,6 +1,6 @@
 #!/bin/bash
 for file in * ; do
-	echo -n phrasendrescher.names
-	grep '^Name' phrasendrescher.names.auri |
+	echo -n $file
+	grep '^Name' $file.names.auri |
 		sed 's/^.*: //'
 done
