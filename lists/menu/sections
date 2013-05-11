@@ -1,0 +1,124 @@
+01-info-gathering.directory
+	01-01-dns-analysis.directory
+	01-02-identify-live-hosts.directory
+	01-03-ids-ips-identification.directory
+	01-04-network-scanners.directory
+	01-05-network-traffic-analysis.directory
+	01-06-os-fingerprinting.directory
+	01-07-osint-analysis.directory
+	01-08-route-analysis.directory
+	01-09-service-fingerprinting.directory
+	01-10-smb-analysis.directory
+	01-11-smtp-analysis.directory
+	01-12-snmp-analysis.directory
+	01-13-ssl-analysis.directory
+	01-14-telephony-analysis.directory
+	01-15-voip-analysis.directory
+	01-16-vpn-analysis.directory
+
+02-vulnerability-analysis.directory
+	02-01-cisco-tools.directory
+	02-02-fuzzers.directory
+	02-03-misc-scanners.directory
+	02-04-open-source-assessment.directory
+	02-05-database-assessment.directory
+	02-06-openvas.directory
+	02-07-nessus.directory
+	02-08-saint.directory
+	02-09-nexpose.directory
+
+03-web-applications.directory
+	03-01-cms-identification.directory
+	03-02-ids-ips-identification.directory
+	03-03-open-source-analysis.directory
+	03-04-web-crawlers.directory
+	03-05-web-vulnerability-scanners.directory
+	03-06-web-application-proxies.directory
+	03-07-web-application-fuzzers.directory
+	03-08-database-exploitation-tools.directory
+
+04-password-attacks.directory
+	04-01-online-attacks.directory
+	04-02-offline-attacks.directory
+	04-03-gpu-tools.directory
+
+05-wireless-attacks.directory
+	05-01-wireless-tools.directory
+	05-02-bluetooth-tools.directory
+	05-04-other-wireless.directory
+
+05-03-rfid-nfc-tools.directory
+	05-03-01-nfc-tools.directory
+	05-03-02-rfidiot-pcsc.directory
+	05-03-03-rfidiot-acg.directory
+	05-03-04-rfidiot-frosch.directory
+
+06-exploitation-tools.directory
+	06-01-cisco-attacks.directory
+	06-02-metasploit-framework.directory
+	06-03-sap-exploitation.directory
+	06-04-network-exploitation.directory
+	06-05-beef-xss-framework.directory
+	06-06-social-engineering-toolkit.directory
+	06-07-exploit-db.directory
+	06-08-online-archives.directory
+	06-09-inguma.directory
+
+07-sniffing-spoofing.directory
+	07-01-voice-and-surveillance.directory
+	07-02-voip-tools.directory
+	07-03-network-sniffers.directory
+	07-04-network-spoofing.directory
+	07-05-web-sniffers.directory
+
+08-maintaining-access.directory
+	08-01-os-backdoors.directory
+	08-03-web-backdoors.directory
+	08-02-tunneling.directory
+
+09-reverse-engineering.directory
+	09-01-debuggers.directory
+	09-02-disassembly.directory
+	09-03-misc-tools.directory
+
+10-stress-testing.directory
+	10-01-network-stress-testing.directory
+	10-02-wlan-stress-testing.directory
+	10-03-voip-stress-testing.directory
+	10-04-web-stress-testing.directory
+
+11-hardware-hacking.directory
+	11-01-android-tools.directory
+	11-02-arduino-tools.directory
+	11-03-teensy-tools.directory
+
+12-forensics.directory
+	12-09-network-forensics.directory
+	12-03-digital-forensics.directory
+	12-02-digital-anti-forensics.directory
+	12-07-forensic-imaging-tools.directory
+	12-06-forensic-hashing-tools.directory
+	12-08-forensic-suites.directory
+	12-04-forensic-analysis-tools.directory
+	12-12-ram-forensics-tools.directory
+	12-05-forensic-carving-tools.directory
+	12-11-pdf-forensics-tools.directory
+	12-10-password-forensics-tools.directory
+	12-01-anti-virus-forensics-tools.directory
+
+13-reporting.directory
+	13-01-evidence-management.directory
+	13-02-media-capture.directory
+	13-03-documentation.directory
+
+14-services.directory
+	14-02-httpd.directory
+	14-03-mysqld.directory
+	14-06-sshd.directory
+	14-01-gpsd.directory
+	14-04-pcscd.directory
+	14-07-radius.directory
+	14-05-snort-service.directory
+	14-08-beef-service.directory
+	14-09-metasploit-service.directory
+	14-10-dradis-service.directory
