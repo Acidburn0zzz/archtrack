@@ -52,7 +52,7 @@ dos-new-ip6 thc-ipv6
 driftnet driftnet
 dsniff dsniff
 edb-debugger edb-debugger
-existing exploit6 thc-ipv6
+exploit6 thc-ipv6
 extundelete extundelete
 fake_advertise6 thc-ipv6
 fake_dhcps6 thc-ipv6
