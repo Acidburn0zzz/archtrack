@@ -1,0 +1,5 @@
+Pack=udptunnel
+Name=udptunnel
+Kali=udptunnel
+Cats=08-02-tunneling;
+Term=true

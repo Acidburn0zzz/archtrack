@@ -1,0 +1,5 @@
+Pack=nmap
+Name=ncat
+Kali=nmap
+Cats=01-02-identify-live-hosts;01-09-service-fingerprinting;08-02-tunneling;
+Term=true

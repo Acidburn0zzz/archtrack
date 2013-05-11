@@ -1,0 +1,5 @@
+Pack=pwnat
+Name=pwnat
+Kali=pwnat
+Cats=08-02-tunneling;
+Term=true

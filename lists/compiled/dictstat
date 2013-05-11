@@ -1,0 +1,5 @@
+Pack=pack
+Name=dictstat
+Kali=pack
+Cats=04-02-offline-attacks;
+Term=true

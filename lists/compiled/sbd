@@ -1,0 +1,5 @@
+Pack=sbd
+Name=sbd
+Kali=sbd
+Cats=08-01-os-backdoors;08-02-tunneling;
+Term=true

@@ -1,0 +1,5 @@
+Pack=stunnel
+Name=stunnel4
+Kali=stunnel4
+Cats=01-13-ssl-analysis;08-02-tunneling;
+Term=true

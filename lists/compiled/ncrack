@@ -1,0 +1,5 @@
+Pack=ncrack
+Name=ncrack
+Kali=ncrack
+Cats=04-01-online-attacks;
+Term=true

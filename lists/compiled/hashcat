@@ -1,0 +1,5 @@
+Pack=hashcat
+Name=hashcat
+Kali=hashcat
+Cats=04-02-offline-attacks;
+Term=true

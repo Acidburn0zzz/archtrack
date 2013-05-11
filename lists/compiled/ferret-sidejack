@@ -1,0 +1,5 @@
+Pack=ferret
+Name=ferret
+Kali=ferret-sidejack
+Cats=07-05-web-sniffers;
+Term=true

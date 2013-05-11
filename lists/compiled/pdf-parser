@@ -1,0 +1,5 @@
+Pack=pdf-parser
+Name=pdf-parser
+Kali=pdf-parser
+Cats=12-11-pdf-forensics-tools;
+Term=true

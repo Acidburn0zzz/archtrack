@@ -1,0 +1,5 @@
+Pack=sipcrack
+Name=sipcrack
+Kali=sipcrack
+Cats=04-02-offline-attacks;
+Term=true

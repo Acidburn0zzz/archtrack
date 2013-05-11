@@ -1,0 +1,5 @@
+Pack=thc-ssl-dos
+Name=thc-ssl-dos
+Kali=thc-ssl-dos
+Cats=10-04-web-stress-testing;
+Term=true

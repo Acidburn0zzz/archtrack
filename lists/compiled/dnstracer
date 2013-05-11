@@ -1,0 +1,5 @@
+Pack=dnstracer
+Name=dnstracer
+Kali=dnstracer
+Cats=01-01-dns-analysis;
+Term=true

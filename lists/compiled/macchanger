@@ -1,0 +1,5 @@
+Pack=macchanger
+Name=macchanger
+Kali=macchanger
+Cats=07-04-network-spoofing;
+Term=true

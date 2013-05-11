@@ -1,0 +1,5 @@
+Pack=netmask
+Name=netmask
+Kali=netmask
+Cats=01-08-route-analysis;
+Term=true

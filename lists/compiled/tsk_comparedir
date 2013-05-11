@@ -1,0 +1,5 @@
+Pack=sleuthkit
+Name=tsk_comparedir
+Kali=sleuthkit
+Cats=12-03-digital-forensics;
+Term=true

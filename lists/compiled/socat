@@ -1,0 +1,5 @@
+Pack=socat
+Name=socat
+Kali=socat
+Cats=08-02-tunneling;
+Term=true

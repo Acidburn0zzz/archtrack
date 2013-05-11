@@ -1,0 +1,5 @@
+Pack=irpas
+Name=irpas-ass
+Kali=irpas
+Cats=01-05-network-traffic-analysis;
+Term=true

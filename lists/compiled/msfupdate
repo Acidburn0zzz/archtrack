@@ -1,0 +1,5 @@
+Pack=metasploit
+Name=update metasploit
+Kali=metasploit-framework
+Cats=06-02-metasploit-framework;
+Term=true

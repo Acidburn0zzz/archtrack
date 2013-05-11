@@ -1,0 +1,5 @@
+Pack=arping
+Name=arping
+Kali=arping
+Cats=01-02-identify-live-hosts;
+Term=true

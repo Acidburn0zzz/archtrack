@@ -1,0 +1,5 @@
+Pack=pyrit
+Name=pyrit
+Kali=pyrit
+Cats=04-03-gpu-tools;04-02-offline-attacks;
+Term=true

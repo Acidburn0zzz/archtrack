@@ -1,0 +1,5 @@
+Pack=kismet
+Name=kismet
+Kali=kismet
+Cats=05-01-wireless-tools;
+Term=true

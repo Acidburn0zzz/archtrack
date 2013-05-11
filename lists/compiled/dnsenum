@@ -1,0 +1,5 @@
+Pack=dnsenum
+Name=dnsenum
+Kali=dnsenum
+Cats=01-01-dns-analysis;
+Term=true

@@ -1,0 +1,5 @@
+Pack=mdk3
+Name=mdk3
+Kali=mdk3
+Cats=10-02-wlan-stress-testing;05-01-wireless-tools;
+Term=true

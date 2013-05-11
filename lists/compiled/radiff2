@@ -1,0 +1,5 @@
+Pack=radare2
+Name=radiff2
+Kali=radare2
+Cats=09-02-disassembly;
+Term=true

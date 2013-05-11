@@ -1,0 +1,5 @@
+Pack=sslsniff
+Name=sslsniff
+Kali=sslsniff
+Cats=01-13-ssl-analysis;07-03-network-sniffers;
+Term=true

@@ -1,0 +1,5 @@
+Pack=metasploit
+Name=metasploit community / pro
+Kali=metasploit
+Cats=06-02-metasploit-framework;
+Term=false

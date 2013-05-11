@@ -1,0 +1,5 @@
+Pack=w3af
+Name=w3af
+Kali=w3af
+Cats=03-05-web-vulnerability-scanners;
+Term=false

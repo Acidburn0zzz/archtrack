@@ -1,0 +1,5 @@
+Pack=whatweb
+Name=whatweb
+Kali=whatweb
+Cats=03-05-web-vulnerability-scanners;
+Term=true

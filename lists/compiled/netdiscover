@@ -1,0 +1,5 @@
+Pack=netdiscover
+Name=netdiscover
+Kali=netdiscover
+Cats=01-02-identify-live-hosts;01-04-network-scanners;1-08-route-analysis;
+Term=true

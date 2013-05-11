@@ -1,0 +1,5 @@
+Pack=jd-gui
+Name=jd-gui
+Kali=jd-gui
+Cats=09-02-disassembly;
+Term=false

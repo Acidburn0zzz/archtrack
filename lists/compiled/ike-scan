@@ -1,0 +1,5 @@
+Pack=ike-scan
+Name=ike-scan
+Kali=ike-scan
+Cats=01-16-vpn-analysis;
+Term=true

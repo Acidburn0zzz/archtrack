@@ -1,0 +1,5 @@
+Pack=sleuthkit
+Name=icat-sleuthkit
+Kali=sleuthkit
+Cats=12-04-forensic-analysis-tools;
+Term=true

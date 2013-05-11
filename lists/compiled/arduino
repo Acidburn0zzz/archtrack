@@ -1,0 +1,5 @@
+Pack=arduino
+Name=arduino
+Kali=arduino
+Cats=11-02-arduino-tools;
+Term=false

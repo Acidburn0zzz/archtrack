@@ -1,0 +1,5 @@
+Pack=sleuthkit
+Name=jls
+Kali=sleuthkit
+Cats=12-05-forensic-carving-tools;
+Term=true

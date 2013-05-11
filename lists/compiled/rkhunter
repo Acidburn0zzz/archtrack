@@ -1,0 +1,5 @@
+Pack=rkhunter
+Name=rkhunter
+Kali=rkhunter
+Cats=12-01-anti-virus-forensics-tools;
+Term=true

@@ -1,0 +1,5 @@
+Pack=netsniff-ng
+Name=netsniff-ng
+Kali=netsniff-ng
+Cats=07-03-network-sniffers;
+Term=true

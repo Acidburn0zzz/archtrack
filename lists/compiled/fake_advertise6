@@ -1,0 +1,5 @@
+Pack=thc-ipv6
+Name=fake_advertise6
+Kali=thc-ipv6
+Cats=07-04-network-spoofing;
+Term=true

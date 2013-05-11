@@ -1,0 +1,5 @@
+Pack=ddrescue
+Name=ddrescue
+Kali=ddrescue
+Cats=12-07-forensic-imaging-tools;
+Term=true

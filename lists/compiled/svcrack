@@ -1,0 +1,5 @@
+Pack=sipvicious
+Name=svcrack
+Kali=sipvicious
+Cats=07-02-voip-tools;
+Term=true

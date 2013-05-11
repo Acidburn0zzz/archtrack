@@ -1,0 +1,5 @@
+Pack=chntpw
+Name=chntpw
+Kali=chntpw
+Cats=04-02-offline-attacks;12-10-password-forensics-tools;
+Term=true

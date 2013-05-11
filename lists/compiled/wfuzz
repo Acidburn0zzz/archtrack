@@ -1,0 +1,5 @@
+Pack=wfuzz
+Name=wfuzz
+Kali=wfuzz
+Cats=03-07-web-application-fuzzers;
+Term=true

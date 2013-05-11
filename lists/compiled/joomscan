@@ -1,0 +1,5 @@
+Pack=joomscan
+Name=joomscan
+Kali=joomscan
+Cats=03-05-web-vulnerability-scanners;
+Term=true

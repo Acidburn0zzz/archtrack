@@ -1,0 +1,5 @@
+Pack=recoverjpeg
+Name=recoverjpeg
+Kali=recoverjpeg
+Cats=12-05-forensic-carving-tools;
+Term=true

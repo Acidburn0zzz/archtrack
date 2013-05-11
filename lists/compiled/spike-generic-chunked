@@ -1,0 +1,5 @@
+Pack=spike
+Name=spike-generic_chunked
+Kali=spike
+Cats=02-02-fuzzers;
+Term=true

@@ -1,0 +1,5 @@
+Pack=sslscan
+Name=sslscan
+Kali=sslscan
+Cats=01-13-ssl-analysis;01-09-service-fingerprinting;
+Term=true

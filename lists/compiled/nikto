@@ -1,0 +1,5 @@
+Pack=nikto
+Name=nikto
+Kali=nikto
+Cats=02-03-misc-scanners;03-05-web-vulnerability-scanners;
+Term=true
