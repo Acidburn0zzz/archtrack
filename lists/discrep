@@ -1,0 +1,302 @@
+affcat has file-package discrepency: affcat / afflib-tools
+affcompare has file-package discrepency: affcompare / afflib-tools
+affconvert has file-package discrepency: affconvert / afflib-tools
+affcopy has file-package discrepency: affcopy / afflib-tools
+affcrypto has file-package discrepency: affcrypto / afflib-tools
+affdiskprint has file-package discrepency: affdiskprint / afflib-tools
+affinfo has file-package discrepency: affinfo / afflib-tools
+affsign has file-package discrepency: affsign / afflib-tools
+affstats has file-package discrepency: affstats / afflib-tools
+affuse has file-package discrepency: affuse / afflib-tools
+affverify has file-package discrepency: affverify / afflib-tools
+affxml has file-package discrepency: affxml / afflib-tools
+alive6 has file-package discrepency: alive6 / thc-ipv6
+arachni-gui has file-name discrepency: arachni-gui / arachni_web
+arachni-gui has file-package discrepency: arachni-gui / arachni
+baksmali has file-package discrepency: baksmali / smali
+beef has file-package discrepency: beef / beef-xss
+beef-start has file-name discrepency: beef-start / beef start
+beef-start has file-package discrepency: beef-start / beef-xss
+beef-stop has file-name discrepency: beef-stop / beef stop
+beef-stop has file-package discrepency: beef-stop / beef-xss
+blkcalc has file-package discrepency: blkcalc / sleuthkit
+blkcat has file-package discrepency: blkcat / sleuthkit
+blkls has file-package discrepency: blkls / sleuthkit
+blkstat has file-package discrepency: blkstat / sleuthkit
+bulk-extractor has file-name discrepency: bulk-extractor / bulk_extractor
+cachedump has file-package discrepency: cachedump / creddump
+clang-plusplus has file-name discrepency: clang-plusplus / clang++
+clang-plusplus has file-package discrepency: clang-plusplus / clang
+denial6 has file-package discrepency: denial6 / thc-ipv6
+detect-new-ip6 has file-package discrepency: detect-new-ip6 / thc-ipv6
+detect_sniffer6 has file-package discrepency: detect_sniffer6 / thc-ipv6
+dictstat has file-package discrepency: dictstat / pack
+discrep has file-name discrepency: discrep / 
+discrep has file-package discrepency: discrep / 
+dnmap-client has file-package discrepency: dnmap-client / dnmap
+dnmap-server has file-package discrepency: dnmap-server / dnmap
+dns2tcpc has file-package discrepency: dns2tcpc / dns2tcp
+dns2tcpd has file-package discrepency: dns2tcpd / dns2tcp
+dnsdict6 has file-package discrepency: dnsdict6 / thc-ipv6
+dnsrevenum6 has file-package discrepency: dnsrevenum6 / thc-ipv6
+dnsspoof has file-package discrepency: dnsspoof / dsniff
+dos-new-ip6 has file-package discrepency: dos-new-ip6 / thc-ipv6
+dradis-start has file-name discrepency: dradis-start / dradis start
+dradis-start has file-package discrepency: dradis-start / dradis
+dradis-stop has file-name discrepency: dradis-stop / dradis stop
+dradis-stop has file-package discrepency: dradis-stop / dradis
+ettercap-text has file-package discrepency: ettercap-text / ettercap-text-only
+ewfacquire has file-package discrepency: ewfacquire / ewf-tools
+ewfacquirestream has file-package discrepency: ewfacquirestream / ewf-tools
+ewfexport has file-package discrepency: ewfexport / ewf-tools
+ewfinfo has file-package discrepency: ewfinfo / ewf-tools
+ewfverify has file-package discrepency: ewfverify / ewf-tools
+exploit6 has file-package discrepency: exploit6 / thc-ipv6
+fake_advertise6 has file-package discrepency: fake_advertise6 / thc-ipv6
+fake_dhcps6 has file-package discrepency: fake_dhcps6 / thc-ipv6
+fake_dns6d has file-package discrepency: fake_dns6d / thc-ipv6
+fake_dnsupdate6 has file-package discrepency: fake_dnsupdate6 / thc-ipv6
+fake_mipv6 has file-package discrepency: fake_mipv6 / thc-ipv6
+fake_mld26 has file-package discrepency: fake_mld26 / thc-ipv6
+fake_mld6 has file-package discrepency: fake_mld6 / thc-ipv6
+fake_mldrouter6 has file-package discrepency: fake_mldrouter6 / thc-ipv6
+fake_router26 has file-package discrepency: fake_router26 / thc-ipv6
+fake_router6 has file-package discrepency: fake_router6 / thc-ipv6
+fake_solicitate6 has file-package discrepency: fake_solicitate6 / thc-ipv6
+ferret-sidejack has file-name discrepency: ferret-sidejack / ferret
+ffind has file-package discrepency: ffind / sleuthkit
+flood_advertise6 has file-package discrepency: flood_advertise6 / thc-ipv6
+flood_dhcpc6 has file-package discrepency: flood_dhcpc6 / thc-ipv6
+flood_mld26 has file-package discrepency: flood_mld26 / thc-ipv6
+flood_mld6 has file-package discrepency: flood_mld6 / thc-ipv6
+flood_mldrouter6 has file-package discrepency: flood_mldrouter6 / thc-ipv6
+flood_router26 has file-package discrepency: flood_router26 / thc-ipv6
+flood_router6 has file-package discrepency: flood_router6 / thc-ipv6
+flood_solicitate6 has file-package discrepency: flood_solicitate6 / thc-ipv6
+fls has file-package discrepency: fls / sleuthkit
+fragmentation6 has file-package discrepency: fragmentation6 / thc-ipv6
+fsstat has file-package discrepency: fsstat / sleuthkit
+ftester has file-name discrepency: ftester / ftest
+fuzz_ip6 has file-package discrepency: fuzz_ip6 / thc-ipv6
+genkeys has file-package discrepency: genkeys / asleap
+genpmk has file-package discrepency: genpmk / cowpatty
+ginguma has file-package discrepency: ginguma / inguma
+hamster-sidejack has file-name discrepency: hamster-sidejack / hamster
+hfind has file-package discrepency: hfind / sleuthkit
+httpd-restart has file-name discrepency: httpd-restart / apache2 restart
+httpd-restart has file-package discrepency: httpd-restart / apache2
+httpd-start has file-name discrepency: httpd-start / apache2 start
+httpd-start has file-package discrepency: httpd-start / apache2
+httpd-stop has file-name discrepency: httpd-stop / apache2 stop
+httpd-stop has file-package discrepency: httpd-stop / apache2
+icat-sleuthkit has file-package discrepency: icat-sleuthkit / sleuthkit
+ifind has file-package discrepency: ifind / sleuthkit
+ils-sleuthkit has file-package discrepency: ils-sleuthkit / sleuthkit
+img_cat has file-package discrepency: img_cat / sleuthkit
+img_stat has file-package discrepency: img_stat / sleuthkit
+implementation6 has file-package discrepency: implementation6 / thc-ipv6
+implementation6d has file-package discrepency: implementation6d / thc-ipv6
+inverse_lookup6 has file-package discrepency: inverse_lookup6 / thc-ipv6
+irpass-ass has file-name discrepency: irpass-ass / irpas-ass
+irpass-ass has file-package discrepency: irpass-ass / irpas
+irpass-cdp has file-package discrepency: irpass-cdp / irpas
+isr-evilgrade has file-name discrepency: isr-evilgrade / evilgrade
+istat has file-package discrepency: istat / sleuthkit
+jboss-autopwn-linux has file-package discrepency: jboss-autopwn-linux / jboss-autopwn
+jboss-autopwn-windows has file-name discrepency: jboss-autopwn-windows / jboss-autopwn-win
+jboss-autopwn-windows has file-package discrepency: jboss-autopwn-windows / jboss-autopwn
+jcat has file-package discrepency: jcat / sleuthkit
+jls has file-package discrepency: jls / sleuthkit
+kill_router6 has file-package discrepency: kill_router6 / thc-ipv6
+lsadump has file-package discrepency: lsadump / creddump
+macof has file-package discrepency: macof / dsniff
+mactime-sleuthkit has file-package discrepency: mactime-sleuthkit / sleuthkit
+mailsnarf has file-package discrepency: mailsnarf / dsniff
+maskgen has file-package discrepency: maskgen / pack
+mdb-export has file-package discrepency: mdb-export / mdbtools
+mdb-hexdump has file-package discrepency: mdb-hexdump / mdbtools
+mdb-parsecsv has file-package discrepency: mdb-parsecsv / mdbtools
+mdb-sql has file-package discrepency: mdb-sql / mdbtools
+mdb-tables has file-package discrepency: mdb-tables / mdbtools
+merge-router-config has file-package discrepency: merge-router-config / copy-router-config
+mifare-classic-format has file-package discrepency: mifare-classic-format / 
+mmcat has file-package discrepency: mmcat / sleuthkit
+mmls has file-package discrepency: mmls / sleuthkit
+mmstat has file-package discrepency: mmstat / sleuthkit
+msfconsole has file-name discrepency: msfconsole / metasploit framework
+msfconsole has file-package discrepency: msfconsole / metasploit-framework
+msfdiaglog has file-name discrepency: msfdiaglog / metasploit diagnostic logs 
+msfdiaglog has file-package discrepency: msfdiaglog / metasploit
+msfdiagshell has file-name discrepency: msfdiagshell / metasploit diagnostic shell
+msfdiagshell has file-package discrepency: msfdiagshell / metasploit
+msfpro has file-name discrepency: msfpro / metasploit community / pro
+msfpro has file-package discrepency: msfpro / metasploit
+msf-start has file-name discrepency: msf-start / community / pro start
+msf-start has file-package discrepency: msf-start / metasploit
+msf-stop has file-name discrepency: msf-stop / community / pro stop
+msf-stop has file-package discrepency: msf-stop / metasploit
+msfupdate has file-name discrepency: msfupdate / update metasploit
+msfupdate has file-package discrepency: msfupdate / metasploit-framework
+msgsnarf has file-package discrepency: msgsnarf / dsniff
+mysqld-restart has file-name discrepency: mysqld-restart / mysql restart
+mysqld-restart has file-package discrepency: mysqld-restart / mysql-server
+mysqld-start has file-name discrepency: mysqld-start / mysql start
+mysqld-start has file-package discrepency: mysqld-start / mysql-server
+mysqld-stop has file-name discrepency: mysqld-stop / mysql stop
+mysqld-stop has file-package discrepency: mysqld-stop / mysql-server
+ncat has file-package discrepency: ncat / nmap
+netsniff has file-name discrepency: netsniff / netsniff-ng
+netsniff has file-package discrepency: netsniff / netsniff-ng
+nfc-list has file-package discrepency: nfc-list / libnfc-bin
+nfc-mfclassic has file-package discrepency: nfc-mfclassic / libnfc-bin
+openvas has file-name discrepency: openvas / openvas-gsd
+openvas-setup has file-package discrepency: openvas-setup / openvas
+parasite6 has file-package discrepency: parasite6 / thc-ipv6
+passive_discovery6 has file-package discrepency: passive_discovery6 / thc-ipv6
+policygen has file-package discrepency: policygen / pack
+pwdump has file-package discrepency: pwdump / creddump
+rabin2 has file-package discrepency: rabin2 / radare2
+radiff2 has file-package discrepency: radiff2 / radare2
+rafind2 has file-package discrepency: rafind2 / radare2
+ragg2 has file-package discrepency: ragg2 / radare2
+ragg2-cc has file-package discrepency: ragg2-cc / radare2
+rahash2 has file-package discrepency: rahash2 / radare2
+randicmp6 has file-package discrepency: randicmp6 / thc-ipv6
+rarun2 has file-package discrepency: rarun2 / radare2
+rasm2 has file-package discrepency: rasm2 / radare2
+rax2 has file-package discrepency: rax2 / radare2
+rcracki-mt has file-name discrepency: rcracki-mt / rcracki_mt
+recstudio-cli has file-package discrepency: recstudio-cli / recstudio
+redfang has file-name discrepency: redfang / fang
+redir6 has file-package discrepency: redir6 / thc-ipv6
+rfidiot-01 has file-name discrepency: rfidiot-01 / test acg lahf
+rfidiot-01 has file-package discrepency: rfidiot-01 / python-rfidiot
+rfidiot-03 has file-name discrepency: rfidiot-03 / select tag
+rfidiot-03 has file-package discrepency: rfidiot-03 / python-rfidiot
+rfidiot-04 has file-name discrepency: rfidiot-04 / continuous select tag
+rfidiot-04 has file-package discrepency: rfidiot-04 / python-rfidiot
+rfidiot-05 has file-name discrepency: rfidiot-05 / copy iso15693 tag
+rfidiot-05 has file-package discrepency: rfidiot-05 / python-rfidiot
+rfidiot-06 has file-name discrepency: rfidiot-06 / read acg reader eeprom
+rfidiot-06 has file-package discrepency: rfidiot-06 / python-rfidiot
+rfidiot-07 has file-name discrepency: rfidiot-07 / set fdx-b id
+rfidiot-07 has file-package discrepency: rfidiot-07 / python-rfidiot
+rfidiot-08 has file-name discrepency: rfidiot-08 / format mifare 1k value blocks
+rfidiot-08 has file-package discrepency: rfidiot-08 / python-rfidiot
+rfidiot-09 has file-name discrepency: rfidiot-09 / brute force hitag2
+rfidiot-09 has file-package discrepency: rfidiot-09 / python-rfidiot
+rfidiot-10 has file-name discrepency: rfidiot-10 / jcop mifare read write
+rfidiot-10 has file-package discrepency: rfidiot-10 / python-rfidiot
+rfidiot-11 has file-name discrepency: rfidiot-11 / jcop info
+rfidiot-11 has file-package discrepency: rfidiot-11 / python-rfidiot
+rfidiot-12 has file-name discrepency: rfidiot-12 / jcop set atr historical bytes
+rfidiot-12 has file-package discrepency: rfidiot-12 / python-rfidiot
+rfidiot-13 has file-name discrepency: rfidiot-13 / identify lf tag type
+rfidiot-13 has file-package discrepency: rfidiot-13 / python-rfidiot
+rfidiot-14 has file-name discrepency: rfidiot-14 / bruteforce mifare
+rfidiot-14 has file-package discrepency: rfidiot-14 / python-rfidiot
+rfidiot-15 has file-name discrepency: rfidiot-15 / calculate jcop mifare keys
+rfidiot-15 has file-package discrepency: rfidiot-15 / python-rfidiot
+rfidiot-16 has file-name discrepency: rfidiot-16 / epassport read write clone
+rfidiot-16 has file-package discrepency: rfidiot-16 / python-rfidiot
+rfidiot-17 has file-name discrepency: rfidiot-17 / reset q5 tag
+rfidiot-17 has file-package discrepency: rfidiot-17 / python-rfidiot
+rfidiot-18 has file-name discrepency: rfidiot-18 / read lf tag
+rfidiot-18 has file-package discrepency: rfidiot-18 / python-rfidiot
+rfidiot-19 has file-name discrepency: rfidiot-19 / read mifare
+rfidiot-19 has file-package discrepency: rfidiot-19 / python-rfidiot
+rfidiot-20 has file-name discrepency: rfidiot-20 / read tag
+rfidiot-20 has file-package discrepency: rfidiot-20 / python-rfidiot
+rfidiot-21 has file-name discrepency: rfidiot-21 / read write clone unique (em4x02)
+rfidiot-21 has file-package discrepency: rfidiot-21 / python-rfidiot
+rfidiot-22 has file-name discrepency: rfidiot-22 / select tag
+rfidiot-22 has file-package discrepency: rfidiot-22 / python-rfidiot
+rfidiot-23 has file-name discrepency: rfidiot-23 / continuous select tag
+rfidiot-23 has file-package discrepency: rfidiot-23 / python-rfidiot
+rfidiot-24 has file-name discrepency: rfidiot-24 / chip & pin info
+rfidiot-24 has file-package discrepency: rfidiot-24 / python-rfidiot
+rfidiot-25 has file-name discrepency: rfidiot-25 / jcop mifare read/write
+rfidiot-25 has file-package discrepency: rfidiot-25 / python-rfidiot
+rfidiot-26 has file-name discrepency: rfidiot-26 / jcop info
+rfidiot-26 has file-package discrepency: rfidiot-26 / python-rfidiot
+rfidiot-27 has file-name discrepency: rfidiot-27 / jcop set atr historical bytes
+rfidiot-27 has file-package discrepency: rfidiot-27 / python-rfidiot
+rfidiot-28 has file-name discrepency: rfidiot-28 / bruteforce mifare
+rfidiot-28 has file-package discrepency: rfidiot-28 / python-rfidiot
+rfidiot-29 has file-name discrepency: rfidiot-29 / calculate jcop mifare keys
+rfidiot-29 has file-package discrepency: rfidiot-29 / python-rfidiot
+rfidiot-30 has file-name discrepency: rfidiot-30 / epassport read/write/clone
+rfidiot-30 has file-package discrepency: rfidiot-30 / python-rfidiot
+rfidiot-31 has file-name discrepency: rfidiot-31 / read mifare
+rfidiot-31 has file-package discrepency: rfidiot-31 / python-rfidiot
+rfidiot-32 has file-name discrepency: rfidiot-32 / read tag
+rfidiot-32 has file-package discrepency: rfidiot-32 / python-rfidiot
+rfidiot-37 has file-name discrepency: rfidiot-37 / test frosch reader
+test frosch reader
+rfidiot-37 has file-package discrepency: rfidiot-37 / python-rfidiot
+rfidiot-38 has file-name discrepency: rfidiot-38 / set fdx-b id
+rfidiot-38 has file-package discrepency: rfidiot-38 / python-rfidiot
+rfidiot-39 has file-name discrepency: rfidiot-39 / read write clone unique (em4x02)
+rfidiot-39 has file-package discrepency: rfidiot-39 / python-rfidiot
+rfidiot-40 has file-name discrepency: rfidiot-40 / reset hitag2 tag
+rfidiot-40 has file-package discrepency: rfidiot-40 / python-rfidiot
+rfidiot-41 has file-name discrepency: rfidiot-41 / identify hf tag type
+rfidiot-41 has file-package discrepency: rfidiot-41 / python-rfidiot
+rfidiot-42 has file-name discrepency: rfidiot-42 / identify hf tag type
+rfidiot-42 has file-package discrepency: rfidiot-42 / python-rfidiot
+rsmurf6 has file-package discrepency: rsmurf6 / thc-ipv6
+search.sh has file-name discrepency: search.sh / 
+search.sh has file-package discrepency: search.sh / 
+searchsploit has file-package discrepency: searchsploit / exploitdb
+set has file-name discrepency: set / se-toolkit
+sigfind has file-package discrepency: sigfind / sleuthkit
+sipsak has file-package discrepency: sipsak / sipcrack
+smurf6 has file-package discrepency: smurf6 / thc-ipv6
+sorter has file-package discrepency: sorter / sleuthkit
+spike-generic-chunked has file-name discrepency: spike-generic-chunked / spike-generic_chunked
+spike-generic-chunked has file-package discrepency: spike-generic-chunked / spike
+spike-generic-listen-tcp has file-name discrepency: spike-generic-listen-tcp / spike-generic_listen_tcp
+spike-generic-listen-tcp has file-package discrepency: spike-generic-listen-tcp / spike
+spike-generic-send-tcp has file-name discrepency: spike-generic-send-tcp / spike-generic_send_tcp
+spike-generic-send-tcp has file-package discrepency: spike-generic-send-tcp / spike
+spike-generic-send-udp has file-name discrepency: spike-generic-send-udp / spike-generic_send_udp
+spike-generic-send-udp has file-package discrepency: spike-generic-send-udp / spike
+srch_strings has file-package discrepency: srch_strings / sleuthkit
+sshd-restart has file-name discrepency: sshd-restart / sshd restart
+sshd-restart has file-package discrepency: sshd-restart / openssh-server
+sshd-start has file-name discrepency: sshd-start / sshd start
+sshd-start has file-package discrepency: sshd-start / openssh-server
+sshd-stop has file-name discrepency: sshd-stop / sshd stop
+sshd-stop has file-package discrepency: sshd-stop / openssh-server
+stunnel has file-name discrepency: stunnel / stunnel4
+stunnel has file-package discrepency: stunnel / stunnel4
+svcrack has file-package discrepency: svcrack / sipvicious
+svcrash has file-package discrepency: svcrash / sipvicious
+svmap has file-package discrepency: svmap / sipvicious
+svreport has file-package discrepency: svreport / sipvicious
+svwar has file-package discrepency: svwar / sipvicious
+thcping6 has file-package discrepency: thcping6 / thc-ipv6
+trace6 has file-package discrepency: trace6 / thc-ipv6
+tsk_comparedir has file-package discrepency: tsk_comparedir / sleuthkit
+tsk_gettimes has file-package discrepency: tsk_gettimes / sleuthkit
+tsk_loaddb has file-package discrepency: tsk_loaddb / sleuthkit
+tsk_recover has file-package discrepency: tsk_recover / sleuthkit
+uniscan-gui has file-package discrepency: uniscan-gui / uniscan
+urlsnarf has file-package discrepency: urlsnarf / dsniff
+wafw00f has file-package discrepency: wafw00f / waffit
+webmitm has file-package discrepency: webmitm / dsniff
+webshag-gui has file-package discrepency: webshag-gui / webshag
+webspy has file-package discrepency: webspy / dsniff
+wifiarp has file-package discrepency: wifiarp / wifitap
+wifidns has file-package discrepency: wifidns / wifitap
+wifiping has file-package discrepency: wifiping / wifitap
+xprobe has file-name discrepency: xprobe / xprobe2
+zaproxy has file-name discrepency: zaproxy / owasp-zap
+zbassocflood has file-package discrepency: zbassocflood / killerbee
+zbconvert has file-package discrepency: zbconvert / killerbee
+zbdsniff has file-package discrepency: zbdsniff / killerbee
+zbdump has file-package discrepency: zbdump / killerbee
+zbfind has file-package discrepency: zbfind / killerbee
+zbgoodfind has file-package discrepency: zbgoodfind / killerbee
+zbreplay has file-package discrepency: zbreplay / killerbee
+zbstumbler has file-package discrepency: zbstumbler / killerbee
