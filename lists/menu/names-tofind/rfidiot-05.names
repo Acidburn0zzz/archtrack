@@ -1,0 +1,3 @@
+copy iso15693 tag
+python-rfidiot
+rfidiot-05
