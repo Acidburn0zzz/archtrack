@@ -1,0 +1,18 @@
+Repository     : aur
+Name           : wash
+Version        : 4.2.020.1027bb-1
+URL            : http://code.google.com/p/bash-whispering
+AUR URL        : https://aur.archlinux.org/packages/wash
+Licenses       : GPL
+Votes          : 4
+Out Of Date    : No
+Groups         : None
+Provides       : None
+Depends On     : bash glibc
+Optional Deps  : None
+Conflicts With : None
+Replaces       : None
+Maintainer     : shpelda
+Architecture   : i686 x86_64
+Last update    : Sat 27 Oct 2012 12:55:35 PM EDT
+Description    : The GNU Bourne Again shell with whispering patch 

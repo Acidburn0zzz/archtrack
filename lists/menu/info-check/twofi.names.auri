@@ -1,0 +1,18 @@
+Repository     : aur
+Name           : twofi
+Version        : 1.0-2
+URL            : http://www.digininja.org/projects/twofi.php
+AUR URL        : https://aur.archlinux.org/packages/twofi
+Licenses       : CCPL:cc-by-sa-3.0.txt
+Votes          : 0
+Out Of Date    : No
+Groups         : None
+Provides       : None
+Depends On     : ruby
+Optional Deps  : None
+Conflicts With : None
+Replaces       : None
+Maintainer     : andreoli
+Architecture   : any
+Last update    : Mon 11 Mar 2013 11:09:52 AM EDT
+Description    : Twitter Words of Interest

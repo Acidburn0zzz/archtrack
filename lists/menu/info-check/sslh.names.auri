@@ -1,0 +1,18 @@
+Repository     : community
+Name           : sslh
+Version        : 1.14-2
+Description    : SSL/SSH/OpenVPN/XMPP/tinc port multiplexer
+Architecture   : x86_64
+URL            : http://www.rutschle.net/tech/sslh.shtml
+Licenses       : GPL2
+Groups         : None
+Provides       : None
+Depends On     : libconfig
+Optional Deps  : None
+Conflicts With : None
+Replaces       : None
+Download Size  :  20.45 KiB
+Installed Size :  84.00 KiB
+Packager       : Sébastien Luttringer <seblu@seblu.net>
+Build Date     : Mon 04 Feb 2013 09:23:01 AM EST
+Validated By   : MD5 Sum  SHA256 Sum  Signature

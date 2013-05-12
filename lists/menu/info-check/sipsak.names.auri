@@ -1,0 +1,37 @@
+Repository     : aur
+Name           : sipcrack
+Version        : 0.4-2
+URL            : http://www.remote-exploit.org/codes_sipcrack.html 
+AUR URL        : https://aur.archlinux.org/packages/sipcrack
+Licenses       : custom
+Votes          : 14
+Out Of Date    : Yes
+Groups         : None
+Provides       : None
+Depends On     : None
+Optional Deps  : None
+Conflicts With : None
+Replaces       : None
+Maintainer     : -
+Architecture   : i686 x86_64
+Last update    : Sat 27 Oct 2012 12:55:31 PM EDT
+Description    : SIPcrack isa SIP protocol login cracker.
+Repository     : aur
+Name           : sipsak
+Version        : 0.9.6-1
+URL            : http://sipsak.org
+AUR URL        : https://aur.archlinux.org/packages/sipsak
+Licenses       : GPL
+Votes          : 11
+Out Of Date    : No
+Groups         : None
+Provides       : None
+Depends On     : gnutls openssl
+Optional Deps  : None
+Conflicts With : None
+Replaces       : None
+Maintainer     : Balda
+Architecture   : i686 x86_64
+Last update    : Sat 27 Oct 2012 12:55:31 PM EDT
+Description    : A small command line tool for developers and administrators of 
+                 Session Initiation Protocol (SIP) applications. 
