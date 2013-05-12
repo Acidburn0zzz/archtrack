@@ -1,0 +1,28 @@
+brute force hitag2
+bruteforce mifare
+calculate jcop mifare keys
+chip & pin info
+continuous select tag
+copy iso15693 tag
+epassport read write clone
+epassport read/write/clone
+format mifare 1k value blocks
+identify hf tag type
+identify lf tag type
+jcop info
+jcop mifare read write
+jcop mifare read/write
+jcop set atr historical bytes
+python-rfidiot
+read acg reader eeprom
+read lf tag
+read mifare
+read tag
+read write clone unique (em4x02)
+reset hitag2 tag
+reset q5 tag
+rfidiot
+select tag
+set fdx-b id
+test acg lahf
+test frosch reader

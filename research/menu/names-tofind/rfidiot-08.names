@@ -1,3 +1,0 @@
-format mifare 1k value blocks
-python-rfidiot
-rfidiot-08
