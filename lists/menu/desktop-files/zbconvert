@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=zbconvert
+Encoding=UTF-8
+Exec=sh -c "zbconvert -h;${SHELL:-bash}"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-04-other-wireless;
+X-Kali-Package=killerbee
