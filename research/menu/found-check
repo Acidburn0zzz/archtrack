@@ -1,0 +1,26 @@
+chkrootkit tiger
+ftester csrftester
+grabber <various>
+grabber allegro4
+hping3 hping
+ikat klear
+ginguma inguma-hg (inguma also?)
+intersect <various>
+lbd lbdb
+dbd <various>
+dff createudffs
+openvas gsa,gsd,<various>
+pdfbook ipdfbookmarks,texlive-core
+readpst libpst
+rebind rebind-svn
+redfang robolectric
+rfidiot rfidtool
+rfidot rfdump
+snmpcheck net-snmp
+zenmap nmap
+ace
+cadaver
+sipsak
+sslh
+twofi
+wash
