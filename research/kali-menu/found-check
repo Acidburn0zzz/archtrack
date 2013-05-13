@@ -17,10 +17,5 @@ redfang robolectric
 rfidiot rfidtool
 rfidot rfdump
 snmpcheck net-snmp
-zenmap nmap
-ace
-cadaver
-sipsak
-sslh
-twofi
 wash
+sipcrack
