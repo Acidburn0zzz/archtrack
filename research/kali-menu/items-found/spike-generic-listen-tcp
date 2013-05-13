@@ -1,0 +1,10 @@
+spike spike-generic_listen_tcp spike-generic-listen-tcp [Desktop Entry]
+Name=spike-generic_listen_tcp
+Encoding=UTF-8
+Exec=sh -c "generic_listen_tcp;${SHELL:-bash}"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-02-fuzzers;
+X-Kali-Package=spike
