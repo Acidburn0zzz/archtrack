@@ -1,6 +1,0 @@
-unhide
-expect
-jd without gui?
-rfidtool
-rfdump
-whois
