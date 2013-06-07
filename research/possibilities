@@ -1,2 +1,11 @@
 ODESSA
 https://aur.archlinux.org/packages/?K=ptchinster&SeB=m
+openvas
+	gsa
+	gsd
+	openvas-administrator
+	openvas-cli
+	openvas-client
+	openvas-libraries
+	openvas-manager
+	openvas-scanner
