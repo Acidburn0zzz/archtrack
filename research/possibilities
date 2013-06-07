@@ -1,11 +1,20 @@
-ODESSA
-https://aur.archlinux.org/packages/?K=ptchinster&SeB=m
-openvas
-	gsa
-	gsd
-	openvas-administrator
-	openvas-cli
-	openvas-client
-	openvas-libraries
-	openvas-manager
-	openvas-scanner
+Programs
+	ODESSA
+Packages
+	openvas
+		gsa
+		gsd
+		openvas-administrator
+		openvas-cli
+		openvas-client
+		openvas-manager
+		openvas-scanner
+AUR users
+	https://aur.archlinux.org/packages/?K=ptchinster&SeB=m
+OS
+	openwall http://www.openwall.com/
+	backtrack http://www.backtrack-linux.org/
+	kali http://www.kali.org/
+	backbox http://www.backbox.org/
+	knoppix http://s-t-d.org/
+	nst http://networksecuritytoolkit.org/nst/index.html
