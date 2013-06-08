@@ -1,5 +1,6 @@
 Programs
 	ODESSA
+	rumint
 Packages
 	openvas
 		gsa
@@ -18,3 +19,5 @@ OS
 	backbox http://www.backbox.org/
 	knoppix http://s-t-d.org/
 	nst http://networksecuritytoolkit.org/nst/index.html
+Other
+	http://www.yolinux.com/TUTORIALS/LinuxSecurityTools.html
