@@ -2,6 +2,7 @@ Programs
 	ODESSA
 	rumint
 Packages
+	encfs
 	openvas
 		gsa
 		gsd
