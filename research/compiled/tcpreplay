@@ -1,5 +1,0 @@
-Pack=tcpreplay
-Name=tcpreplay
-Kali=tcpreplay
-Cats=07-04-network-spoofing;
-Term=true

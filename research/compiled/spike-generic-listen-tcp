@@ -1,5 +1,0 @@
-Pack=spike
-Name=spike-generic_listen_tcp
-Kali=spike
-Cats=02-02-fuzzers;
-Term=true

@@ -1,5 +1,0 @@
-Pack=cisco-auditing-tool
-Name=cisco-auditing-tool
-Kali=cisco-auditing-tool
-Cats=06-01-cisco-attacks;02-01-cisco-tools;04-01-online-attacks;01-12-snmp-analysis;
-Term=true

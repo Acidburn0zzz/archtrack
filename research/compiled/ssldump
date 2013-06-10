@@ -1,5 +1,0 @@
-Pack=ssldump
-Name=ssldump
-Kali=ssldump
-Cats=01-13-ssl-analysis;
-Term=true

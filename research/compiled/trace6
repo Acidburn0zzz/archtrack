@@ -1,5 +1,0 @@
-Pack=thc-ipv6
-Name=trace6
-Kali=thc-ipv6
-Cats=01-08-route-analysis;
-Term=true

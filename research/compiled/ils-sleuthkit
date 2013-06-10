@@ -1,5 +1,0 @@
-Pack=sleuthkit
-Name=ils-sleuthkit
-Kali=sleuthkit
-Cats=12-04-forensic-analysis-tools;
-Term=true

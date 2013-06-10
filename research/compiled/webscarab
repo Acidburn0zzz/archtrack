@@ -1,5 +1,0 @@
-Pack=webscarab
-Name=webscarab
-Kali=webscarab
-Cats=03-04-web-crawlers;03-05-web-vulnerability-scanners;03-06-web-application-proxies;03-07-web-application-fuzzers;04-01-online-attacks;07-05-web-sniffers;
-Term=false

@@ -1,5 +1,0 @@
-Pack=sslyze
-Name=sslyze
-Kali=sslyze
-Cats=01-13-ssl-analysis;01-09-service-fingerprinting;
-Term=true

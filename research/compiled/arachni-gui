@@ -1,5 +1,0 @@
-Pack=arachni
-Name=arachni_web
-Kali=arachni
-Cats=03-05-web-vulnerability-scanners;
-Term=true

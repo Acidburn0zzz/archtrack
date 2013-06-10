@@ -1,5 +1,0 @@
-Pack=thc-ipv6
-Name=inverse_lookup6
-Kali=thc-ipv6
-Cats=01-02-identify-live-hosts;
-Term=true

@@ -1,5 +1,0 @@
-Pack=fcrackzip
-Name=fcrackzip
-Kali=fcrackzip
-Cats=04-02-offline-attacks;11-10-password-forensics-tools;
-Term=true

@@ -1,5 +1,0 @@
-Pack=thc-ipv6
-Name=fuzz_ip6
-Kali=thc-ipv6
-Cats=02-02-fuzzers;
-Term=true

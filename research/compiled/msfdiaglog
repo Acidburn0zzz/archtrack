@@ -1,5 +1,0 @@
-Pack=metasploit
-Name=metasploit diagnostic logs
-Kali=metasploit
-Cats=06-02-metasploit-framework;
-Term=true

@@ -1,5 +1,0 @@
-Pack=dnswalk
-Name=dnswalk
-Kali=dnswalk
-Cats=01-01-dns-analysis;
-Term=true

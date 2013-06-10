@@ -1,5 +1,0 @@
-Pack=sleuthkit
-Name=tsk_loaddb
-Kali=sleuthkit
-Cats=12-03-digital-forensics;
-Term=true

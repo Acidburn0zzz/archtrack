@@ -1,5 +1,0 @@
-Pack=dsniff
-Name=webspy
-Kali=dsniff
-Cats=07-03-network-sniffers;07-05-web-sniffers;
-Term=true

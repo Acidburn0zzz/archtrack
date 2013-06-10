@@ -1,5 +1,0 @@
-Pack=sqlmap
-Name=sqlmap
-Kali=sqlmap
-Cats=02-05-database-assessment;03-05-web-vulnerability-scanners;top10;
-Term=true

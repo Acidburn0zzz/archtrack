@@ -1,5 +1,0 @@
-Pack=sslstrip
-Name=sslstrip
-Kali=sslstrip
-Cats=01-13-ssl-analysis;07-04-network-spoofing;
-Term=true

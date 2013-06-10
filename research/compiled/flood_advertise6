@@ -1,5 +1,0 @@
-Pack=thc-ipv6
-Name=flood_advertise6
-Kali=thc-ipv6
-Cats=10-01-network-stress-testing;
-Term=true

@@ -1,5 +1,0 @@
-Pack=dnsmap
-Name=dnsmap
-Kali=dnsmap
-Cats=01-01-dns-analysis;
-Term=true
