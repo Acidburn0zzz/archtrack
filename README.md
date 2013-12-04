@@ -1,3 +1,5 @@
+**ArchTrack is now [BlackArch](http://blackarch.org/). The new development repository is here: https://github.com/BlackArch/blackarch**
+
 ## What is this?
 
 Archtrack is able to turn an Arch Linux system into a fully functional
